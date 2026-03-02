@@ -1,4 +1,4 @@
-let form = document.getElementById("loginForm");
+const form = document.getElementById("loginForm");
 
 
 const dataBase = [
@@ -39,3 +39,4 @@ form.addEventListener("submit",function(event){
     errorMessage.innerText = "";
    }
 })
+
