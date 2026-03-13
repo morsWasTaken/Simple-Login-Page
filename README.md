@@ -1,2 +1,2 @@
 # Simple-Login-Page
-A simple login page 
+My first attempt to create a simple login page using only JavaScript.
